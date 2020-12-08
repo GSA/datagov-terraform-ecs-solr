@@ -8,7 +8,7 @@ This repository supports an experiment in deploying Solr to AWS ECS using just `
 2. [ ] The compliance burden for getting an ATO with such a deployment is lower than getting an ATO with EKS in the mix
 3. [ ] We can use Terraform to stand up and tear down duch deployments
 
-- 
+---
 
 ## Contributing
 
