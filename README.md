@@ -1,8 +1,12 @@
-# [Repo Name]
+# datagov-terraform-ecs-solr
 
 ## Why this project
 
-Here are the goals of this project and how we'll measure its success.
+This repository supports an experiment in deploying Solr to AWS ECS using just `docker compose` (note: not the same as `docker-compose`). Here are the hypotheses to be tested:
+
+1. [ ] We can deploy a production-ready Solr instance to AWS ECS [using just `docker compose`](https://aws.amazon.com/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/)
+2. [ ] The compliance burden for getting an ATO with such a deployment is lower than getting an ATO with EKS in the mix
+3. [ ] We can use Terraform to stand up and tear down duch deployments
 
 - 
 
